@@ -6,4 +6,4 @@ hello java!
 hello java!
 hello java!
 hello java!
-hello java!
+hello java! hot-fix test
