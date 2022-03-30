@@ -5,5 +5,7 @@ hello java!
 hello java!
 hello java!
 hello java!
+<<<<<<< HEAD
 hello java! master test
-hello java!
+hello java! hot-fix test
+>>>>>>> hot-fix
